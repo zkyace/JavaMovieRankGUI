@@ -1,0 +1,100 @@
+1,There will be Blood,12/12/07
+2,12 Years a Slave,10/12/14
+3,Boyhood,07/07/14
+4,Under the Skin,05/29/14
+5,In the Mood for Love,04/13/00
+6,Hidden,03/15/05
+7,Synecdoche New York,05/23/08
+8,Moonlight,09/02/16
+9,Zama,08/03/17
+10,Team America World Police,10/15/04
+11,Mulholland Drive,10/19/01
+12,Son of Saul,12/18/15
+13,Far From Heaven,11/08/02
+14,White Material,11/19/10
+15,Shoplifters,11/30/18
+16,The Act of Killing,07/19/13
+17,The Great Beauty,12/31/12
+18,A Serious Man,10/02/09
+19,Saving Lincoln,02/15/13
+20,Roma,12/05/18
+21,The White Ribbon,12/30/09
+22,Spirited Away,09/20/02
+23,Borat,11/03/06
+24,Ida,10/25/13
+25,Get Out,02/24/17
+26,A One and a Two,10/06/02
+27,The Grand Budapest Hotel,01/26/15
+28,The Tree of Life,06/16/11
+29,Nebraska,11/15/13
+30,Leviathan,10/29/14
+31,Anomalisa,12/13/15
+32,Gravity,10/04/13
+33,The Royal Tenenbaums,10/05/01
+34,The Child,03/26/04
+35,45 Years,12/23/15
+36,A Separation ,12/30/11
+37,Dogville ,05/19/03
+38,Once Upon a Time in Anatolia,01/04/12
+39,Meek's Cutoff,09/04/10
+40,Unrelated,09/19/08
+41,The Handmaiden,10/28/16
+42,4 Months 3 Weeks and 2 Days,05/17/07
+43,The Wolf of Wall Street,12/25/13
+44,Toni Erdmann,11/23/16
+45,13th,10/07/16
+46,Volver,11/03/06
+47,Margaret,09/30/11
+48,The House of Mirth,09/23/00
+49,Hour Party People,08/09/02
+50,Before Sunset,02/10/04
+51,Crouching Tiger-Hidden Dragon,12/05/00
+52,Amores Perros,03/30/01
+53,Fire at Sea,10/21/16
+54,The Social Network,01/07/11
+55,Russian Ark,05/22/02
+56,Behind the Candelabra,05/26/13
+57,Leave No Trace,07/06/18
+58,Gangs of Wasseypur,06/22/12
+59,Ted,06/29/12
+60,Wuthering Heights,10/05/12
+61,The Souvenir,05/17/19
+62,Waiting for Happiness,04/04/03
+63,We Need to Talk about Kevin,01/13/12
+64,The Incredibles,11/05/04
+65,Happy as Lazzaro,12/31/17
+66,Brokeback Mountain,03/09/06
+67,Dogtooth,05/31/09
+68,Mr Turner,12/19/14
+69,Paddington,01/12/18
+70,Anchorman The Legend of Ron Burgundy,07/09/04
+71,Capernaum,12/14/18
+72,Waltz With Bashir,12/25/08
+73,Love & Friendship,05/13/16
+74,A Prophet,08/26/09
+75,Philomena,11/27/13
+76,Ten,08/27/91
+77,Lost in Translation,09/09/03
+78,Ocean's Eleven,12/07/01
+79,Persepolis,12/25/07
+80,Requiem for a Dream,10/06/00
+81,Fish Tank,01/15/10
+82,Stories We Tell,05/17/13
+83,The Son's Room,02/01/02
+84,Tropical Malady,06/29/05
+85,Burning,11/09/18
+86,No Country for Old Men,03/01/08
+87,The Wind that Shakes the Barley,05/18/06
+88,Gomorrah,12/19/08
+89,The Selfish Giant,10/24/13
+90,Eden,06/19/15
+91,Etre et Avoir,09/05/06
+92,The Hurt Locker,06/26/09
+93,Gladiator,05/01/00
+94,Call me by your name,01/19/18
+95,Private Life,10/05/18
+96,Frozen,09/02/14
+97,Fahrenheit 911,05/17/04
+98,The Dark Knight,07/18/08
+99,Bright,09/18/09
+100,Once Upon a Time in Hollywood,07/26/19
