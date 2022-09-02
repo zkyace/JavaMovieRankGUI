@@ -85,7 +85,7 @@ class TopMovies implements ActionListener{
         }
         counter = 0;
         size = tempfile.length;
-        //creates a split array at ,
+        //splits the strings into smaller strings separating rank, name, and date
         for(int i = 0,c = 0; i < size;i++, c++){
             tempdata = tempfile[i].split(",");
             for(int x = 0; x < tempdata.length;x++){
